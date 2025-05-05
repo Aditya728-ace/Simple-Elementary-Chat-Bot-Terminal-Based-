@@ -23,6 +23,9 @@ A simple yet functional AI-powered chatbot built using Python and the Gemini API
     This chatbot is designed to be run via VS Code's Debug Mode.
     Simply open the project in VS Code and click the "Run and Debug" button.
 
+🧰 Dependencies 
+    pip install google-generativeai - do it in terminal and install the package. 
+
 💾 Chat History
     Every question and answer is automatically saved to a SQLite database, allowing you to view and analyze past interactions.
 
